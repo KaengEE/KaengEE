@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?text=KaengEE&animation=fadeIn&type=wave&color=auto&height=300&section=header)
 
-![header](https://capsule-render.vercel.app/api?text=Hi🖐%20I'm🐣growing%20progammer🐣&fontAlign=50&type=transparent&fontSize=30&fontColor=8041D9)
+![header](https://capsule-render.vercel.app/api?text=Hi🖐%20I'm🐣kaengEE🐣&fontAlign=50&type=transparent&fontSize=30&fontColor=8041D9)
 
 <div align=center><h1>📚learning📚</h1></div>
 <br>
