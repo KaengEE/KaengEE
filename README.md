@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?text=KaengEE&fontColor=fff&animation=fadeIn&type=waving&color=8041D9&height=150&&section=header)
+![header](https://capsule-render.vercel.app/api?text=KaengEE&fontColor=fff&fontAlign=80&animation=fadeIn&type=waving&color=8041D9&height=150&&section=header)
 
 ![header](https://capsule-render.vercel.app/api?text=Hi🖐%20I'm🐣kaengEE🐣&fontAlign=50&type=transparent&fontSize=30&fontColor=8041D9)
 
