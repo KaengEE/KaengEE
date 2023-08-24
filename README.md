@@ -22,6 +22,7 @@
    <br>
    <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white">
    <img src="https://img.shields.io/badge/VScode-007ACC?style=flat&logo=visualstudiocode&logoColor=white">
+   <img src="https://img.shields.io/badge/oracle-F80000?style=flat&logo=oracle&logoColor=white">
 </div>
 <!-- 블로그 -->
 <div align=center><h3>🍀Blog🍀</h3></div>
