@@ -23,14 +23,22 @@
    <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white">
    <img src="https://img.shields.io/badge/VScode-007ACC?style=flat&logo=visualstudiocode&logoColor=white">
    <img src="https://img.shields.io/badge/oracle-F80000?style=flat&logo=oracle&logoColor=white">
+   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white">
+   <br>
    <img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat&logo=javascript&logoColor=white">
+   <img src="https://img.shields.io/badge/Eclipse IDE-2C2255?style=flat&logo=Eclipse&logoColor=white">
 </div>
 <!-- 블로그 -->
 <div align=center><h3>🍀Blog🍀</h3></div>
 
 <div align=center>
   <a href="https://blog.naver.com/coding_ori">
-    <img src="https://img.shields.io/badge/Blog-03C75A?style=for-the-badge&logo=Naver&logoColor=white">
+    <img src="https://img.shields.io/badge/Blog-03C75A?style=for-the-badge&logo=Naver&logoColor=white"></a>
+</div>
+
+<div align=center>
+   <h3>🛠프로젝트🛠</h3>
+   <a href="https://github.com/anicef/ANICEF_99">ANICEF 팀프로젝트</a>
 </div>
 
 <br>
