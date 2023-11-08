@@ -26,7 +26,7 @@
    <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white">
    <br>
    <img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat&logo=javascript&logoColor=white">
-   <img src="https://img.shields.io/badge/Eclipse IDE-2C2255?style=flat&logo=Eclipse&logoColor=white">
+   <img src="https://img.shields.io/badge/springboot-6DB33F?style=flat&logo=SpringBoot&logoColor=white">
 </div>
 <!-- 블로그 -->
 <div align=center><h3>🍀Blog🍀</h3></div>
@@ -39,6 +39,7 @@
 <div align=center>
    <h3>🛠프로젝트🛠</h3>
    <a href="https://github.com/anicef/ANICEF_99">ANICEF 팀프로젝트</a>
+   <a href="https://github.com/KaengEE/Arible-BoardProject">Arible 프로젝트</a>
 </div>
 
 <br>
