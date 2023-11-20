@@ -27,6 +27,7 @@
    <br>
    <img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat&logo=javascript&logoColor=white">
    <img src="https://img.shields.io/badge/springboot-6DB33F?style=flat&logo=SpringBoot&logoColor=white">
+   <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=white">
 </div>
 <!-- 블로그 -->
 <div align=center><h3>🍀Blog🍀</h3></div>
