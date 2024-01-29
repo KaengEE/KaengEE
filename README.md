@@ -42,6 +42,10 @@
    <a href="https://github.com/anicef/ANICEF_99">ANICEF 팀프로젝트</a>
    
    <a href="https://github.com/KaengEE/Arible-BoardProject">Arible 프로젝트</a>
+
+   <a href="https://github.com/KaengEE/Movie-Stars">Movie Star 프로젝트</a>
+
+   <a href="https://github.com/KaengEE/withhobby">With Hobby 프로젝트</a>
 </div>
 
 <br>
